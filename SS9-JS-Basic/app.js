@@ -119,3 +119,11 @@
 // Nhập vào giờ VN nhưng in ra giờ mỹ: Ví dụ: 2 ==> 2am , 14 ==> 2pm.
 // const time = (input > 12) ? input - 12 + "pm" : input + "am";
 // console.log('Giờ Mỹ là : ', time);
+
+// Bài tập 5: 
+// const input = confirm("Bạn đã đủ 18 tuổi chưa!")
+// const check = input ? "Đã đủ 18 tuổi" : "Chưa đủ 18 tuổi";
+// console.log(check);
+
+// const noti = alert("Chào mừng bạn đến với học viện Rikkei Academy")
+// console.log(noti);
